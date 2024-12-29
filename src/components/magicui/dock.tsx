@@ -1,3 +1,5 @@
+/* eslint no-use-before-define: 0 */ // --> OFF
+
 "use client";
 
 import { cn } from "@/lib/utils";
